@@ -2,6 +2,9 @@ Meeting Agenda
 To conduct a standup to discuss course progress in terms of project and HW4.
 And also, have a simulated discussion by pretending to be a part of a new development team at a medium-sized tech company that needs to discuss whether or not daily standups will be useful to implement or not based on the given research paper.
 
+Role
+Ashrith Reddy Thukkaraju - Moderator
+
 Minutes
 - Ramaraja has started working with his team to decide on the tools and frameworks for the RewardBot project. And he is yet to find a partner for HW4. No blockers.
 - Ashrith has wrapped up the Requirements and Design for his project. And he has completed HW4. Need to start designing the database schema for the project. No blockers.

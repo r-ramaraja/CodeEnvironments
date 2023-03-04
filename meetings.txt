@@ -4,6 +4,7 @@ And also, have a simulated discussion by pretending to be a part of a new develo
 
 Role
 Ashrith Reddy Thukkaraju - Moderator
+Ramaraja Ramanujan - Notetaker
 
 Minutes
 - Ramaraja has started working with his team to decide on the tools and frameworks for the RewardBot project. And he is yet to find a partner for HW4. No blockers.

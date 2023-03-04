@@ -5,6 +5,7 @@ And also, have a simulated discussion by pretending to be a part of a new develo
 Role
 Ashrith Reddy Thukkaraju - Moderator
 Ramaraja Ramanujan - Notetaker
+Amith Reddy Nalla Venkat - Secretary
 
 Minutes
 - Ramaraja has started working with his team to decide on the tools and frameworks for the RewardBot project. And he is yet to find a partner for HW4. No blockers.
@@ -18,3 +19,4 @@ Guidelines from Guest Lecture
 - Made a list of topics to discuss and prioritize.
 - Set well-defined roles and hierarchy to ensure that meetings stay on track.
 - Made a conscious choice to be polite and attentive when putting forth points.
+
